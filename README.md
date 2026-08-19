@@ -111,9 +111,21 @@ Power BI         ███░░░░░░░
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Komal-017&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Komal-017&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Komal-017&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+## 🤝 Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Komal-017&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Contributed Repositories" />
+</p>
 
 📌 Quick Snapshot
 
